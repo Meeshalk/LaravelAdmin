@@ -1,17 +1,13 @@
-<!-- <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p> -->
+## About this Package
 
-<!-- <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p> -->
+This package is build with Laravel 5.7.* and it uses Spatie Laravel permission package for User Role & Permission (ACL).
 
-## About this Bot
 
-Its a web crawler for teamtailor associated websites.
+## Upcoming
+
+I'll try to add user manamemnet features in the UI, like adding roles, permissions and Managemening them via UI.
 
 
 ## License
 
-This is a private project, copy rights are reserved.
+The LaravelAdmin is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
